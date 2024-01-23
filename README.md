@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I write articles on [https://medium.com/@nursematurhan4](https://medium.com/@nursematurhan4)
-
 - 📫 How to reach me **nursematurhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
