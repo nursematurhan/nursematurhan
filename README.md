@@ -1,4 +1,4 @@
-![programming lan 8f0d37ca-7cb6-4aa0-9536-160f2d309dfe](https://github.com/nursematurhan/nursematurhan/assets/94144190/58cb538a-4fe1-4775-910c-fef285ccb800)
+![programming lan 8f0d37ca-7cb6-4a](https://github.com/nursematurhan/nursematurhan/assets/94144190/48be3c03-d30e-43d0-9d81-a67d0c4182e0)
 
 <h1 align="center">Hi 👋, I'm Nursema</h1>
 <h3 align="center">Software Developer</h3>
